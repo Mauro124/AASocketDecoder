@@ -1,0 +1,21 @@
+Server socket UP 2019-09-02 17:08:45
+20200
+Log Json: true
+Host Rtdm: 0.0.0.0
+Port Rtdm: 7980
+ 
+FECHA, HORA, MINUTO, SEGUNDO, COD_ACTUACION, NUM_TELEFONO, EVENTO
+Longitud del buffer: 300
+Longitud de la notificacion: 224
+D0026S: Length too long
+Notification SIZE: 0
+Notificación invalida:
+{}
+Socket error: An established connection was aborted by the software in your host machine
+Longitud del buffer: 300
+Longitud de la notificacion: 224
+D0026S: Length too long
+Notification SIZE: 0
+Notificación invalida:
+{}
+Socket error: An established connection was aborted by the software in your host machine
